@@ -1,0 +1,557 @@
+[
+    {
+        "nombre":"categoria1",
+        "Preguntas":[
+            {
+                "Pregunta":"¿1?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿2?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿3?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "nombre":"categoria1",
+        "Preguntas":[
+            {
+                "Pregunta":"¿1?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿2?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿3?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿4?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "nombre":"categoria1",
+        "Preguntas":[
+            {
+                "Pregunta":"¿1?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿2?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿3?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿4?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "nombre":"categoria1",
+        "Preguntas":[
+            {
+                "Pregunta":"¿1?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿2?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿3?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿4?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "nombre":"categoria1",
+        "Preguntas":[
+            {
+                "Pregunta":"¿1?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿2?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿3?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿4?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            },
+            {
+                "Pregunta":"¿5?",
+                "soluciones":[
+                    {
+                        "texto": "no",
+                        "valor": false
+                    },
+                    {
+                        "texto": "ok",
+                        "valor": true
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    },
+                    {
+                        "texto":"no",
+                        "valor":false
+                    }
+                ]
+            }
+            
+        ]
+    }
+]

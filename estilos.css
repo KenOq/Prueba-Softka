@@ -1,0 +1,51 @@
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+ul {
+    list-style:none;
+}
+.contenedorP {
+    display: none;
+}
+#contenedor {
+    display: block;
+    justify-content: center;
+    background-color: #A7F5AC;
+    height: 100%;
+    text-align: center;
+    margin: 10%;
+    padding: 10%;
+}
+#salir {
+    display: none;
+
+}
+body{
+    background-color: #C7FFCB;
+    display: block;
+    margin: 0 auto;
+}
+label{
+    display: block;
+    justify-content: center;
+    background-color: #A7F5AC;
+    height: 100%;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+}
+li>input{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background:#F5A6C4;
+}
+.respuestas{
+ padding:0px 68px;
+}
+.salir{
+    display:flex;
+    justify-content: center;
+}
+#contador{
+    text-align: right;
+    margin:20px 68px;
+}
